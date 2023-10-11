@@ -231,7 +231,7 @@ PrefabInstance:
       objectReference: {fileID: 11400000, guid: 6489729ca38649d4ba6914535347b655, type: 2}
     - target: {fileID: 3449554643801487130, guid: 30af305b9231cc94ab3985efcb94106e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.0891206
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3449554643801487130, guid: 30af305b9231cc94ab3985efcb94106e, type: 3}
       propertyPath: m_LocalPosition.y
@@ -239,23 +239,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3449554643801487130, guid: 30af305b9231cc94ab3985efcb94106e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -16.772943
+      value: -8.14
       objectReference: {fileID: 0}
     - target: {fileID: 3449554643801487130, guid: 30af305b9231cc94ab3985efcb94106e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3449554643801487130, guid: 30af305b9231cc94ab3985efcb94106e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3449554643801487130, guid: 30af305b9231cc94ab3985efcb94106e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3449554643801487130, guid: 30af305b9231cc94ab3985efcb94106e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3449554643801487130, guid: 30af305b9231cc94ab3985efcb94106e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -263,7 +263,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3449554643801487130, guid: 30af305b9231cc94ab3985efcb94106e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 3449554643801487130, guid: 30af305b9231cc94ab3985efcb94106e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -272,6 +272,10 @@ PrefabInstance:
     - target: {fileID: 3694925250822063550, guid: 30af305b9231cc94ab3985efcb94106e, type: 3}
       propertyPath: m_Name
       value: Tom De Wit
+      objectReference: {fileID: 0}
+    - target: {fileID: 9217264218266334241, guid: 30af305b9231cc94ab3985efcb94106e, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
