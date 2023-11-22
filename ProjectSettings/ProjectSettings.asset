@@ -155,7 +155,8 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Android: com.DefaultCompany.ProjectMixedReality
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -734,6 +735,7 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
+    Android: INWORLD_DEBUG
     Standalone: INWORLD_DEBUG
   additionalCompilerArguments: {}
   platformArchitecture: {}
