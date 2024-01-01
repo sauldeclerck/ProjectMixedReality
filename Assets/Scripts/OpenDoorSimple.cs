@@ -12,7 +12,7 @@ public class OpenDoorSimple : MonoBehaviour
         anim = gameObject.GetComponent<Animator>();
     }
 
-    public void OnHoverEntered(HoverEnterEventArgs args)
+    public void OnSelectEntered(SelectEnterEventArgs args)
     {
         anim.SetBool("CanOpen", true);
 
