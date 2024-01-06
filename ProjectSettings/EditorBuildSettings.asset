@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/New house.unity
     guid: 966f235ece11d7a4cbac1378ca75fd8c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Main Menu.unity
     guid: 63281acbdf2457149ba357b392c090e4
   - enabled: 1
